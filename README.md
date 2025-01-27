@@ -4,9 +4,9 @@ Friends Chat is a completely responsive real-time chat application built on MERN
 
 ### Screenshots Of Mobile View
 
-![1](https://github.com/user-attachments/assets/d1d07e85-27ce-46fe-8cd2-10a83e9ac30e)
-![2](https://github.com/user-attachments/assets/5b580d21-af46-45f4-be0f-01366f71ec7c)
-![3](https://github.com/user-attachments/assets/a193e3a8-af96-47cb-a0fe-59a4b4ab3796)
+![1](https://github.com/user-attachments/assets/5b580d21-af46-45f4-be0f-01366f71ec7c)
+![2](https://github.com/user-attachments/assets/a193e3a8-af96-47cb-a0fe-59a4b4ab3796)
+![3](https://github.com/user-attachments/assets/d1d07e85-27ce-46fe-8cd2-10a83e9ac30e)
 ![4](https://github.com/user-attachments/assets/30c7c78c-8417-4728-a780-4997bbcc29c8)
 ![5](https://github.com/user-attachments/assets/1037a0da-1118-48e0-b8b7-aa2a1f39360d)
 
